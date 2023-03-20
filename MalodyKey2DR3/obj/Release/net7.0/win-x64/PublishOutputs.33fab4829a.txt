@@ -1,0 +1,2 @@
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\bin\Release\net7.0\win-x64\publish\MalodyKey2DR3.pdb
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\bin\Release\net7.0\win-x64\publish\MalodyKey2DR3.exe

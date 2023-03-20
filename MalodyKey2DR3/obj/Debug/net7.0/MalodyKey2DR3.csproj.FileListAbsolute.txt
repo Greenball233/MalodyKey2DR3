@@ -1,0 +1,17 @@
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\bin\Debug\net7.0\MalodyKey2DR3.exe
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\bin\Debug\net7.0\MalodyKey2DR3.deps.json
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\bin\Debug\net7.0\MalodyKey2DR3.runtimeconfig.json
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\bin\Debug\net7.0\MalodyKey2DR3.dll
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\bin\Debug\net7.0\MalodyKey2DR3.pdb
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.csproj.AssemblyReference.cache
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.GeneratedMSBuildEditorConfig.editorconfig
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.AssemblyInfoInputs.cache
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.AssemblyInfo.cs
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.csproj.CoreCompileInputs.cache
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.csproj.CopyComplete
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.dll
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\refint\MalodyKey2DR3.dll
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.pdb
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\MalodyKey2DR3.genruntimeconfig.cache
+H:\Users\Administrator\RiderProjects\MalodyKey2DR3\MalodyKey2DR3\obj\Debug\net7.0\ref\MalodyKey2DR3.dll
